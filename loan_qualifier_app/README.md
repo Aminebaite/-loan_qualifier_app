@@ -1,30 +1,41 @@
-# Project Title
+#Loan Qualifier : 
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+We’re progressing in our role as an application developer at a fintech lending startup. The lending software that we’ve built so far has been a big success for the company. As part of that success, we’ve been meeting a lot with the Business Operations (BizOps) team to discuss creating additional useful features.
 
+At a recent meeting, a new, high-priority feature request emerged. Specifically, BizOps wants to know if your software can prompt the user to save the qualifying loans as a new CSV file.
+
+This project is a fantastic way to show off our new software engineering skills as you advance in your fintech career.
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+This project leverages python 3.9 with the following packages:
+
+###fire - For the command line interface, help page, and entry-point.
+
+###questionary - For interactive user prompts and dialogs
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+Before running the application first install the following dependencies.
 
----
+ ```pip install fire
+ pip install questionary
+ ````
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+You have to run in your terminal app.py after navigating.
+<img width="838" alt="Capture d’écran 2022-05-21 à 10 07 34 PM" src="https://user-images.githubusercontent.com/96351609/169669182-bc6be049-b815-42c6-bade-de417adaebdd.png">
+
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Amine Baite
 
 ---
 
