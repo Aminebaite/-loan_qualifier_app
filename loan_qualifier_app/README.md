@@ -1,4 +1,4 @@
-#Loan Qualifier : 
+# Loan Qualifier : 
 
 We’re progressing in our role as an application developer at a fintech lending startup. The lending software that we’ve built so far has been a big success for the company. As part of that success, we’ve been meeting a lot with the Business Operations (BizOps) team to discuss creating additional useful features.
 
