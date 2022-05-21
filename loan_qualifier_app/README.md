@@ -21,7 +21,8 @@ This project leverages python 3.9 with the following packages:
 
 Before running the application first install the following dependencies.
 
- ```pip install fire
+ ```
+ pip install fire
  pip install questionary
  ````
 
